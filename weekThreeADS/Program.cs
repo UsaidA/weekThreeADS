@@ -13,11 +13,16 @@ namespace weekThreeADS
                 j = i;
                 while (j > 0 || A[j - 1] > A[j])
                 {
-
+                    int leftEle = A[j - 1];
+                    int rightEle = A[j];
+                    A[j] = leftEle;
+                    A[j - 1] = rightEle;
+                    j = j - 1;
                 }
                 i = i + 1;
             }
-            return A[0];
+            return A;
+         
         }
 
         static void Main(string[] args)
@@ -29,7 +34,8 @@ namespace weekThreeADS
             int[] A = { 1, 5, 2, 6, 3, 6, 8 };
 
 
-            insertionSort(A, n);
+            Console.WriteLine(insertionSort(A, n));
+
         }
         
     }
