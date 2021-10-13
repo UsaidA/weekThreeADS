@@ -1,0 +1,14 @@
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\obj\Debug\netcoreapp3.1\weekThreeADS.csproj.AssemblyReference.cache
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\obj\Debug\netcoreapp3.1\weekThreeADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\obj\Debug\netcoreapp3.1\weekThreeADS.AssemblyInfoInputs.cache
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\obj\Debug\netcoreapp3.1\weekThreeADS.AssemblyInfo.cs
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\obj\Debug\netcoreapp3.1\weekThreeADS.csproj.CoreCompileInputs.cache
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\bin\Debug\netcoreapp3.1\weekThreeADS.exe
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\bin\Debug\netcoreapp3.1\weekThreeADS.deps.json
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\bin\Debug\netcoreapp3.1\weekThreeADS.runtimeconfig.json
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\bin\Debug\netcoreapp3.1\weekThreeADS.runtimeconfig.dev.json
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\bin\Debug\netcoreapp3.1\weekThreeADS.dll
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\bin\Debug\netcoreapp3.1\weekThreeADS.pdb
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\obj\Debug\netcoreapp3.1\weekThreeADS.dll
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\obj\Debug\netcoreapp3.1\weekThreeADS.pdb
+C:\Users\bb101\source\repos\weekThreeADS\weekThreeADS\obj\Debug\netcoreapp3.1\weekThreeADS.genruntimeconfig.cache
